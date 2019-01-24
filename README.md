@@ -1,15 +1,16 @@
 # typora-theme-tomotoes
 
+![1548252422](assets/README/tomotoes.png)
 
-> This is a typora theme based on Solarized theme and the style of [my personal website](https://tomotoes.com/)
+> :tomato: This is a typora theme based on Solarized theme and the style of [my personal website](https://tomotoes.com/)
 
 
 
 ## Introduction
 
-**The Tomotoes theme** is based on the popular solarized style, and has added a large number of articles in my personal website design features, so that it is clean without losing focus, eye-protection and beautiful, is a comfortable theme.
+ **The Tomotoes theme** is based on the popular solarized style, and has added a large number of articles in my personal website design features, so that it is clean without losing focus, eye-protection and beautiful, is a comfortable theme.
 
-Tested on Linux and Windows. Not fully tested, but should work on MacOS.
+Tested on Linux and Windows. Not fully tested, *but should work on MacOS*.
 
 
 
